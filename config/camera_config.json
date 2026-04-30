@@ -1,0 +1,24 @@
+{
+  "cameras": [
+    {
+      "id": "CAM_1",
+      "name": "Entry Gate",
+      "source": "rtsp://admin:admin%40123@192.168.1.64:554/Streaming/Channels/102",
+      "modules": {
+        "fire": true,
+        "ppe": true,
+        "restricted_zone": true
+      }
+    },
+    {
+      "id": "CAM_2",
+      "name": "Production Floor",
+      "source": "rtsp://admin:admin%40123@192.168.1.64:554/Streaming/Channels/101",
+      "modules": {
+        "fire": true,
+        "ppe": false,
+        "restricted_zone": false
+      }
+    }
+  ]
+}

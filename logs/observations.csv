@@ -1,0 +1,786 @@
+ObservationID,ObservationDate,Location,Category,Description,RiskLevel,IsNearMiss,IsIncident
+OBS_20260219_111637,2026-02-19,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260219_111649,2026-02-19,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260219_111729,2026-02-19,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260220_150113,2026-02-20,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260220_150147,2026-02-20,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260220_150200,2026-02-20,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260220_150255,2026-02-20,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260220_150325,2026-02-20,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260220_150401,2026-02-20,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260221_224303,2026-02-21,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260221_224323,2026-02-21,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260221_224406,2026-02-21,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260222_200812,2026-02-22,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260222_201105,2026-02-22,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260224_125617,2026-02-24,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260224_125702,2026-02-24,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260224_125800,2026-02-24,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260224_144732,2026-02-24,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260224_144736,2026-02-24,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260224_144814,2026-02-24,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260224_144818,2026-02-24,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260224_144850,2026-02-24,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260224_144918,2026-02-24,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260224_144943,2026-02-24,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260303_125744,2026-03-03,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260303_125746,2026-03-03,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260303_125811,2026-03-03,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260303_125817,2026-03-03,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260303_125821,2026-03-03,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260303_125847,2026-03-03,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260303_125917,2026-03-03,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260303_125921,2026-03-03,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260303_130017,2026-03-03,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260303_130023,2026-03-03,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260303_130117,2026-03-03,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260303_130123,2026-03-03,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260303_130155,2026-03-03,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260305_125228,2026-03-05,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260305_125241,2026-03-05,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260305_125257,2026-03-05,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260305_125303,2026-03-05,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260306_113648,2026-03-06,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260306_113652,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113655,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113657,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113700,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113702,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113705,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113707,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113709,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113712,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113714,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113717,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113719,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113722,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113724,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113727,2026-03-06,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260306_113729,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113732,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113735,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113738,2026-03-06,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260306_113738,2026-03-06,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260311_134619,2026-03-11,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260311_134620,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134620,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134620,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134621,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134621,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134621,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134621,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134621,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134622,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134622,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134623,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134623,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134623,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134623,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134623,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134623,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134623,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134623,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134623,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134623,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134624,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134624,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134625,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134625,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134626,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134626,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134627,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134627,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134628,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134628,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134629,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134629,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134629,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134629,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134629,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134629,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134629,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134629,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134629,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134629,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134630,2026-03-11,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134630,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134630,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134631,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134632,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134633,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134634,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134634,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134635,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134635,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134636,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134637,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134638,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134638,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134639,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134639,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134641,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134641,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134641,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134641,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134641,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134641,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134641,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134641,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134641,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134642,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134643,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134643,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134644,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134645,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134646,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134646,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134646,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134646,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134646,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134646,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134646,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134647,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134647,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134647,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134647,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134647,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134647,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134647,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134647,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134647,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134647,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134648,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134648,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134649,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134650,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134650,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134651,2026-03-11,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134651,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134651,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134651,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134651,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134651,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134652,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134652,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134652,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134653,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134654,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134654,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134655,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134655,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134656,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134657,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134657,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134658,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134659,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134659,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134700,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134700,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134701,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134701,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134702,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134702,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134702,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134702,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134702,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134702,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134702,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134703,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134703,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134703,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134703,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134703,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134703,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134703,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134703,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134704,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134704,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134705,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134705,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134705,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134705,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134705,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134705,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134705,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134705,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134705,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134706,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134706,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134707,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134707,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134708,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134708,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134709,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134709,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134710,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134710,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134711,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134711,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134712,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134712,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134713,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134713,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134713,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134713,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134713,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134713,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134714,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134714,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134715,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134715,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134715,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134715,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134715,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134715,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134715,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134715,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134716,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134716,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134716,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134717,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134717,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134717,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134717,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134717,2026-03-11,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260311_134826,2026-03-11,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260311_134830,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134831,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134834,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134835,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134835,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134835,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134835,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134835,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134835,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134950,2026-03-11,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260311_134952,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134952,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134952,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134952,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134952,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134953,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134954,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134955,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134955,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134955,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134955,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134955,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134955,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134956,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134956,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134956,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134956,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134956,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134956,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134957,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134957,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134958,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134959,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134959,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_134959,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135000,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135000,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135000,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135003,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135003,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135004,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135005,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135005,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135005,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135005,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135006,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135006,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135007,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135007,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135009,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135010,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135010,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135010,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135010,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135011,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135011,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135011,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135011,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135011,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135011,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135011,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135011,2026-03-11,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260311_135012,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135012,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135012,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135013,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135013,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135015,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135016,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135017,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135017,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135017,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135018,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135018,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135018,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135018,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135019,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135019,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135020,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135020,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135020,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135021,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135021,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135022,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135023,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135024,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135024,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135024,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135024,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135024,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135027,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135029,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135033,2026-03-11,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260311_135033,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135034,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135034,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135034,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135034,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135035,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135035,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135035,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135035,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135036,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135036,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260311_135044,2026-03-11,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260429_120637,2026-04-29,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260429_120642,2026-04-29,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260429_120646,2026-04-29,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260429_120737,2026-04-29,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260429_120738,2026-04-29,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260429_121550,2026-04-29,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260429_121551,2026-04-29,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260429_121609,2026-04-29,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260429_121614,2026-04-29,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260429_121614,2026-04-29,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260429_121704,2026-04-29,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260429_121709,2026-04-29,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260429_121715,2026-04-29,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260429_121738,2026-04-29,CAM_1,Restricted Zone,Unauthorized entry detected.,High,True,False
+OBS_20260429_121811,2026-04-29,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260429_121816,2026-04-29,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260429_121818,2026-04-29,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
+OBS_20260429_122023,2026-04-29,CAM_1,Fire Safety,Monitoring session started.,High,False,False
+OBS_20260429_122028,2026-04-29,CAM_1,Fire Safety,Fire detected near equipment.,High,False,False
+OBS_20260429_122032,2026-04-29,CAM_1,PPE,Helmet missing detected.,Medium,True,False
+OBS_20260429_122116,2026-04-29,CAM_1,Fire Safety,Monitoring session stopped.,High,False,False
